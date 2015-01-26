@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baf71d03-85e3-4735-9651-40e6f7b0a6e6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/user.php" afterPath="$PROJECT_DIR$/models/user.php" />
-    </list>
+    <list default="true" id="baf71d03-85e3-4735-9651-40e6f7b0a6e6" name="Default" comment="" />
     <list id="138a88ce-fd00-476f-bbd4-6a67fe48dbbd" name="Update User models" comment="Add user model">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -33,15 +31,6 @@
         <entry file="file://$PROJECT_DIR$/application/default/views/template/default/content.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="1" column="0" selection-start="1" selection-end="61" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="153">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/default/views/index/user.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="25" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="272">
               <folding />
             </state>
           </provider>
@@ -104,16 +93,25 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/admin/controllers/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="43" selection-start="311" selection-end="311" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="340">
+            <state line="16" column="43" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="425">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="user.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/user.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="5" selection-start="193" selection-end="193" vertical-scroll-proportion="0.3109756" vertical-offset="0" max-vertical-offset="328">
+            <state line="14" column="0" selection-start="226" selection-end="226" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="306">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/default/views/user/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="16" selection-start="83" selection-end="83" vertical-scroll-proportion="0.20731707" vertical-offset="0" max-vertical-offset="328">
               <folding />
             </state>
           </provider>
@@ -138,7 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/model/model.php" />
         <option value="$PROJECT_DIR$/model/helper.php" />
         <option value="$PROJECT_DIR$/config/config.php" />
         <option value="$PROJECT_DIR$/application/default/controllers/about.php" />
@@ -154,6 +151,7 @@
         <option value="$PROJECT_DIR$/application/admin/controllers/index.php" />
         <option value="$PROJECT_DIR$/libs/bootstrap.php" />
         <option value="$PROJECT_DIR$/models/user.php" />
+        <option value="$PROJECT_DIR$/application/default/views/user/login.php" />
       </list>
     </option>
   </component>
@@ -190,7 +188,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -219,22 +216,90 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VcsDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VcsDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VcsDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -307,7 +372,23 @@
       <created>1422252343535</created>
       <updated>1422252343535</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update 02 user models">
+      <created>1422253557713</created>
+      <updated>1422253557713</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update 03 user models">
+      <created>1422253920943</created>
+      <updated>1422253920943</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update 04 user models">
+      <created>1422254258304</created>
+      <updated>1422254258304</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update 04 user models">
+      <created>1422254577023</created>
+      <updated>1422254577023</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -315,12 +396,12 @@
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24971879" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22121212" sideWeight="0.6705686" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.225" sideWeight="0.6705686" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -347,17 +428,15 @@
     <MESSAGE value="hjh" />
     <MESSAGE value="Update user models" />
     <MESSAGE value="Update 01 user models" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 01 user models" />
+    <MESSAGE value="Update 02 user models" />
+    <MESSAGE value="Update 03 user models" />
+    <MESSAGE value="Update 04 user models" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 04 user models" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/libs/session.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="40" selection-start="483" selection-end="483" vertical-scroll-proportion="0.51809525" vertical-offset="0" max-vertical-offset="525" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/libs/controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="0" selection-start="245" selection-end="245" vertical-scroll-proportion="0.31135532" vertical-offset="0" max-vertical-offset="546" />
@@ -434,7 +513,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/admin/controllers/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="43" selection-start="311" selection-end="311" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="340">
+        <state line="16" column="43" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="425">
           <folding />
         </state>
       </provider>
@@ -448,7 +527,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/models/user.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="193" selection-end="193" vertical-scroll-proportion="0.3109756" vertical-offset="0" max-vertical-offset="328">
+        <state line="14" column="0" selection-start="226" selection-end="226" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/default/views/user/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="16" selection-start="83" selection-end="83" vertical-scroll-proportion="0.20731707" vertical-offset="0" max-vertical-offset="328">
           <folding />
         </state>
       </provider>
