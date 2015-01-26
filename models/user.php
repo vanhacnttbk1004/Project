@@ -8,6 +8,6 @@
 
 class Models_User {
     public function __construct(){
-        
+        echo "This is models models user!";
     }
 } 
