@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baf71d03-85e3-4735-9651-40e6f7b0a6e6" name="Default" comment="">
-      <change type="DELETED" beforePath="F:\Do_an\VcsDemo\Template" afterPath="" />
+    <list default="true" id="baf71d03-85e3-4735-9651-40e6f7b0a6e6" name="Default" comment="Update 06">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="138a88ce-fd00-476f-bbd4-6a67fe48dbbd" name="Update User models" comment="Add user model" />
@@ -111,7 +110,7 @@
       <file leaf-file-name="register.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/default/views/user/register.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="17" selection-start="65" selection-end="65" vertical-scroll-proportion="0.1852861" vertical-offset="0" max-vertical-offset="367">
+            <state line="4" column="17" selection-start="65" selection-end="65" vertical-scroll-proportion="0.12952381" vertical-offset="0" max-vertical-offset="525">
               <folding />
             </state>
           </provider>
@@ -203,6 +202,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="VcsDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VcsDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -366,7 +379,11 @@
       <created>1422255086778</created>
       <updated>1422255086778</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update 06">
+      <created>1422255263736</created>
+      <updated>1422255263736</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -394,7 +411,7 @@
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26421404" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26421404" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -430,7 +447,8 @@
     <MESSAGE value="Update 03 user models" />
     <MESSAGE value="Update 04 user models" />
     <MESSAGE value="Update 05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 05" />
+    <MESSAGE value="Update 06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -535,7 +553,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/default/views/user/register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="17" selection-start="65" selection-end="65" vertical-scroll-proportion="0.1852861" vertical-offset="0" max-vertical-offset="367">
+        <state line="4" column="17" selection-start="65" selection-end="65" vertical-scroll-proportion="0.12952381" vertical-offset="0" max-vertical-offset="525">
           <folding />
         </state>
       </provider>
