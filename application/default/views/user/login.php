@@ -1,7 +1,10 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: TUNG
- * Date: 26/01/15
- * Time: 1:31 PM
- */ 
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+</head>
+<body>
+
+</body>
+</html>
